@@ -8,17 +8,6 @@
     "color": "e99695"
   },
   {
-    "name": "good for beginner",
-    "color": "ffc0cb",
-    "aliases": [
-      "beginner-friendly",
-      "beginner",
-      "good-starter-issue",
-      "starter-issue",
-      "starter"
-    ]
-  },
-  {
     "name": "Priority: Critical",
     "color": "ee0701"
   },
@@ -32,47 +21,6 @@
   },
   {
     "name": "Priority: Medium",
-    "color": "fbca04"
-  },
-  {
-    "name": "Status: Abandoned",
-    "color": "000000",
-    "aliases": [
-      "wontfix",
-      "invalid"
-    ]
-  },
-  {
-    "name": "Status: Blocked",
-    "color": "ee0701",
-    "aliases": [
-      "blocked"
-    ]
-  },
-  {
-    "name": "Status: In Progress",
-    "color": "cccccc"
-  },
-  {
-    "name": "Status: Proposal",
-    "color": "d4c5f9",
-    "aliases": [
-      "idea",
-      "Idea",
-      "proposal",
-      "Proposal",
-      "discussion"
-    ]
-  },
-  {
-    "name": "Status: Ready for PR",
-    "color": "c2e0c6",
-    "aliases": [
-      "Patch Welcome"
-    ]
-  },
-  {
-    "name": "Status: Review Needed",
     "color": "fbca04"
   },
   {
