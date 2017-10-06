@@ -8,6 +8,10 @@
     "color": "e99695"
   },
   {
+    "name": "wontfix",
+    "color": "00b9ef"
+  },
+  {
     "name": "Priority: Critical",
     "color": "ee0701"
   },
